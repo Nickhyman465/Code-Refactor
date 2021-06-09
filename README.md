@@ -1,5 +1,7 @@
 # Code-Refactor
 
+In this code, I edited the index.html and the style.css code so that they are clearly defined and more accessable for future developers.
+
 # The-Process
 
 The first step I took in refactoring this code was looking at the index.html and style.css. While looking at those I made sure to identify which parts of the code corresponded to what so I would have a better understanding of each working part
